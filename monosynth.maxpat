@@ -5693,15 +5693,15 @@
 					"fontname" : "Arial",
 					"fontsize" : 30.0,
 					"id" : "obj-400",
-					"linecount" : 2,
+					"linecount" : 3,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 657.375, 832.5, 494.25, 110.0 ],
+					"patching_rect" : [ 657.375, 832.5, 494.25, 144.0 ],
 					"presentation" : 1,
-					"presentation_linecount" : 2,
-					"presentation_rect" : [ 657.375, 832.5, 494.25, 110.0 ],
-					"text" : "Mono \"Flagship\" Sketch\nCameron Hooton \n"
+					"presentation_linecount" : 3,
+					"presentation_rect" : [ 657.375, 832.5, 494.25, 144.0 ],
+					"text" : "Mono \"Flagship\" Sketch\nCam Hooton\nhttps://github.com/camhoot \n"
 				}
 
 			}
